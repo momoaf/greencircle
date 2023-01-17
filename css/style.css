@@ -365,7 +365,7 @@ section {
 
 .slide {
     min-height: 100vh;
-    background-image:linear-gradient(rgba(0, 100, 50, 0.5), rgba(0,0,0,0.5)), url('../img/hero-1.jpg');
+    background-image:linear-gradient(rgba(0, 100, 50, 0.5), rgba(0,0,0,0.5)), url('/img/hero-1.jpg');
     background-position: center;
     background-size: cover;
     display: flex;
@@ -377,7 +377,7 @@ section {
 
 .slide-2 {
     min-height: 100vh;
-    background-image: linear-gradient(rgba(0, 100, 50, 0.5), rgba(0,0,0,0.5)),url('../img/hero-2.jpg');
+    background-image: linear-gradient(rgba(0, 100, 50, 0.5), rgba(0,0,0,0.5)),url('/img/hero-2.jpg');
     background-position: center;
     background-size: cover;
 
